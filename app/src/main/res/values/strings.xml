@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Vida Saludable</string>
+    <string name="app_slogan">Tu compañero de hábitos y bienestar</string>
+
+    <!-- Login -->
+    <string name="login_title">Bienvenido</string>
+    <string name="login_subtitle">Ingresa para gestionar tus hábitos diarios</string>
+    <string name="hint_email">Correo electrónico o nombre</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="remember_me">Recordar mi sesión</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_demo">🚀 Entrar en Modo Demo (Invitado)</string>
+
+    <!-- Tabs -->
+    <string name="tab_hoy">🏠\nHoy</string>
+    <string name="tab_consejos">💡\nConsejos</string>
+    <string name="tab_emergencia">🆘\nEmergencia</string>
+
+    <!-- Actions -->
+    <string name="add_routine">＋ Agregar nueva rutina</string>
+    <string name="health_tips">Consejos de Salud</string>
+    <string name="emergency_title">Emergencia</string>
+    <string name="call_emergency">🚑 Llamar a emergencias (123)</string>
+    <string name="trusted_contact">Contacto de confianza</string>
+    <string name="contact_name_hint">Nombre del contacto (ej: Hija María)</string>
+    <string name="contact_phone_hint">Teléfono (ej: 3001234567)</string>
+    <string name="medical_notes_hint">Datos médicos (Alergias, EPS, Grupo sanguíneo)</string>
+    <string name="save_contact">Guardar información</string>
+    <string name="call_contact">📞 Llamar a mi contacto</string>
+    <string name="contact_saved">✅ Información guardada correctamente</string>
+    <string name="logout">Cerrar sesión</string>
+</resources>

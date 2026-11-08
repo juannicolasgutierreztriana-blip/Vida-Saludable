@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.vidasaludable.app-merged_res-31:/layout_item_routine.xml.flat",
+        "source": "com.example.vidasaludable.app-main-33:/layout/item_routine.xml"
+    },
+    {
+        "merged": "com.example.vidasaludable.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.vidasaludable.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.vidasaludable.app-merged_res-31:/layout_activity_login.xml.flat",
+        "source": "com.example.vidasaludable.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.vidasaludable.app-merged_res-31:/layout_dialog_add.xml.flat",
+        "source": "com.example.vidasaludable.app-main-33:/layout/dialog_add.xml"
+    }
+]

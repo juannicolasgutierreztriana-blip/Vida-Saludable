@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">464348441365</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsVn94MBe_59ShQnQxvbd7H5bPvo2YjEI</string>
+    <string name="google_app_id" translatable="false">1:464348441365:android:a1281e6d3234855048d71c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsVn94MBe_59ShQnQxvbd7H5bPvo2YjEI</string>
+    <string name="google_storage_bucket" translatable="false">vidasaludable-ccb15.firebasestorage.app</string>
+    <string name="project_id" translatable="false">vidasaludable-ccb15</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#2E7D32</color>
+    <color name="accent_light">#81C784</color>
+    <color name="background_light">#F4F6F4</color>
+    <color name="call_blue">#1565C0</color>
+    <color name="call_blue_container">#E3F2FD</color>
+    <color name="card_stroke">#E0E0E0</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="emergency_container">#FFEBEE</color>
+    <color name="emergency_red">#D32F2F</color>
+    <color name="emergency_red_dark">#9A0007</color>
+    <color name="primary">#1B5E20</color>
+    <color name="primary_container">#E8F5E9</color>
+    <color name="primary_dark">#0D3B11</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="status_done_bg">#C8E6C9</color>
+    <color name="status_done_text">#1B5E20</color>
+    <color name="status_pending_bg">#FFF3E0</color>
+    <color name="status_pending_text">#E65100</color>
+    <color name="text_muted">#9E9E9E</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#616161</color>
+    <string name="add_routine">＋ Agregar nueva rutina</string>
+    <string name="app_name">Vida Saludable</string>
+    <string name="app_slogan">Tu compañero de hábitos y bienestar</string>
+    <string name="btn_demo">🚀 Entrar en Modo Demo (Invitado)</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="call_contact">📞 Llamar a mi contacto</string>
+    <string name="call_emergency">🚑 Llamar a emergencias (123)</string>
+    <string name="contact_name_hint">Nombre del contacto (ej: Hija María)</string>
+    <string name="contact_phone_hint">Teléfono (ej: 3001234567)</string>
+    <string name="contact_saved">✅ Información guardada correctamente</string>
+    <string name="emergency_title">Emergencia</string>
+    <string name="health_tips">Consejos de Salud</string>
+    <string name="hint_email">Correo electrónico o nombre</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="login_subtitle">Ingresa para gestionar tus hábitos diarios</string>
+    <string name="login_title">Bienvenido</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="medical_notes_hint">Datos médicos (Alergias, EPS, Grupo sanguíneo)</string>
+    <string name="remember_me">Recordar mi sesión</string>
+    <string name="save_contact">Guardar información</string>
+    <string name="tab_consejos">💡\nConsejos</string>
+    <string name="tab_emergencia">🆘\nEmergencia</string>
+    <string name="tab_hoy">🏠\nHoy</string>
+    <string name="trusted_contact">Contacto de confianza</string>
+    <style name="Theme.VidaSaludable" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_light</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+</resources>

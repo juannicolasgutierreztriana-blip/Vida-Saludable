@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@color/md_theme_secondary</color>
+    <color name="accent_light">#81C784</color>
+    <color name="background_light">@color/md_theme_background</color>
+    <color name="call_blue">#0A58CA</color>
+    <color name="call_blue_container">#CFE2FF</color>
+    <color name="card_stroke">#E5E7EB</color>
+    <color name="card_surface">@color/md_theme_surface</color>
+    <color name="emergency_container">#FFEBEE</color>
+    <color name="emergency_red">#D32F2F</color>
+    <color name="emergency_red_dark">#9A0007</color>
+    <color name="md_theme_background">#F8FAF8</color>
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_onBackground">#111827</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_onPrimaryContainer">#042107</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_onSecondaryContainer">#001D3D</color>
+    <color name="md_theme_onSurface">#111827</color>
+    <color name="md_theme_onSurfaceVariant">#414841</color>
+    <color name="md_theme_outline">#727972</color>
+    <color name="md_theme_outlineVariant">#C1C7C1</color>
+    <color name="md_theme_primary">#164E22</color>
+    <color name="md_theme_primaryContainer">#D3E8D4</color>
+    <color name="md_theme_secondary">#0A58CA</color>
+    <color name="md_theme_secondaryContainer">#CFE2FF</color>
+    <color name="md_theme_success">#198754</color>
+    <color name="md_theme_successContainer">#D1E7DD</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_surfaceVariant">#E1E7E1</color>
+    <color name="primary">@color/md_theme_primary</color>
+    <color name="primary_container">@color/md_theme_primaryContainer</color>
+    <color name="primary_dark">#0D3B11</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="status_done_bg">#D1E7DD</color>
+    <color name="status_done_text">#198754</color>
+    <color name="status_pending_bg">#FFF3E0</color>
+    <color name="status_pending_text">#E65100</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="text_primary">@color/md_theme_onBackground</color>
+    <color name="text_secondary">#4B5563</color>
+    <string name="add_routine">＋ Agregar nueva rutina</string>
+    <string name="app_name">Vida Saludable</string>
+    <string name="app_slogan">Tu compañero de hábitos y bienestar</string>
+    <string name="btn_demo">🚀 Entrar en Modo Demo (Invitado)</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="call_contact">📞 Llamar a mi contacto</string>
+    <string name="call_emergency">🚑 Llamar a emergencias (123)</string>
+    <string name="contact_name_hint">Nombre del contacto (ej: Hija María)</string>
+    <string name="contact_phone_hint">Teléfono (ej: 3001234567)</string>
+    <string name="contact_saved">✅ Información guardada correctamente</string>
+    <string name="emergency_title">Emergencia</string>
+    <string name="gcm_defaultSenderId" translatable="false">464348441365</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsVn94MBe_59ShQnQxvbd7H5bPvo2YjEI</string>
+    <string name="google_app_id" translatable="false">1:464348441365:android:a1281e6d3234855048d71c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsVn94MBe_59ShQnQxvbd7H5bPvo2YjEI</string>
+    <string name="google_storage_bucket" translatable="false">vidasaludable-ccb15.firebasestorage.app</string>
+    <string name="health_tips">Consejos de Salud</string>
+    <string name="hint_email">Correo electrónico o nombre</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="login_subtitle">Ingresa para gestionar tus hábitos diarios</string>
+    <string name="login_title">Bienvenido</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="medical_notes_hint">Datos médicos (Alergias, EPS, Grupo sanguíneo)</string>
+    <string name="project_id" translatable="false">vidasaludable-ccb15</string>
+    <string name="remember_me">Recordar mi sesión</string>
+    <string name="save_contact">Guardar información</string>
+    <string name="tab_consejos">💡\nConsejos</string>
+    <string name="tab_emergencia">🆘\nEmergencia</string>
+    <string name="tab_hoy">🏠\nHoy</string>
+    <string name="trusted_contact">Contacto de confianza</string>
+    <style name="ShapeAppearance.VidaSaludable.Large" parent="ShapeAppearance.Material3.LargeComponent">
+        <item name="cornerSize">24dp</item>
+    </style>
+    <style name="ShapeAppearance.VidaSaludable.Medium" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="Theme.VidaSaludable" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_onPrimaryContainer</item>
+
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_secondaryContainer</item>
+
+        <item name="android:colorBackground">@color/md_theme_background</item>
+        <item name="colorSurface">@color/md_theme_surface</item>
+        <item name="colorOnSurface">@color/md_theme_onSurface</item>
+
+        
+        <item name="android:statusBarColor">@color/md_theme_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/md_theme_background</item>
+
+        
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.VidaSaludable.Medium</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.VidaSaludable.Large</item>
+    </style>
+</resources>

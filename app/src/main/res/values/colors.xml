@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary (Verde Salud Institucional MD3) -->
+    <color name="md_theme_primary">#164E22</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#D3E8D4</color>
+    <color name="md_theme_onPrimaryContainer">#042107</color>
+
+    <!-- Secondary / Caregiver Accent (Azul Confianza) -->
+    <color name="md_theme_secondary">#0A58CA</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#CFE2FF</color>
+    <color name="md_theme_onSecondaryContainer">#001D3D</color>
+
+    <!-- Surfaces & Backgrounds (Neutros Limpios) -->
+    <color name="md_theme_background">#F8FAF8</color>
+    <color name="md_theme_onBackground">#111827</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_onSurface">#111827</color>
+    <color name="md_theme_surfaceVariant">#E1E7E1</color>
+    <color name="md_theme_onSurfaceVariant">#414841</color>
+    <color name="md_theme_outline">#727972</color>
+    <color name="md_theme_outlineVariant">#C1C7C1</color>
+
+    <!-- Semantic States -->
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_success">#198754</color>
+    <color name="md_theme_successContainer">#D1E7DD</color>
+
+    <!-- Legacy / Compat aliases used across project -->
+    <color name="primary">@color/md_theme_primary</color>
+    <color name="primary_dark">#0D3B11</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="primary_container">@color/md_theme_primaryContainer</color>
+    <color name="accent">@color/md_theme_secondary</color>
+    <color name="accent_light">#81C784</color>
+
+    <color name="emergency_red">#D32F2F</color>
+    <color name="emergency_red_dark">#9A0007</color>
+    <color name="emergency_container">#FFEBEE</color>
+
+    <color name="call_blue">#0A58CA</color>
+    <color name="call_blue_container">#CFE2FF</color>
+
+    <color name="background_light">@color/md_theme_background</color>
+    <color name="card_surface">@color/md_theme_surface</color>
+    <color name="card_stroke">#E5E7EB</color>
+
+    <color name="status_done_bg">#D1E7DD</color>
+    <color name="status_done_text">#198754</color>
+
+    <color name="status_pending_bg">#FFF3E0</color>
+    <color name="status_pending_text">#E65100</color>
+
+    <color name="text_primary">@color/md_theme_onBackground</color>
+    <color name="text_secondary">#4B5563</color>
+    <color name="text_muted">#9CA3AF</color>
+</resources>

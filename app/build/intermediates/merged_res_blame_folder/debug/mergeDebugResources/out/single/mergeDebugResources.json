@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_dialog_add.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\dialog_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_activity_role_selection.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\activity_role_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_activity_family_dashboard.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\activity_family_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "com.example.vidasaludable.app-debug-36:/drawable_app_icon.png.flat",
+        "source": "com.example.vidasaludable.app-main-38:/drawable/app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_dialog_tour.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\dialog_tour.xml"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_activity_games.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\activity_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_item_routine.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\item_routine.xml"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_dialog_settings.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\dialog_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-debug-36:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\gutie\\.gradle\\daemon\\9.5.0\\com.example.vidasaludable.app-main-38:\\layout\\activity_register.xml"
+    }
+]

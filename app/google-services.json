@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464348441365",
+    "project_id": "vidasaludable-ccb15",
+    "storage_bucket": "vidasaludable-ccb15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464348441365:android:a1281e6d3234855048d71c",
+        "android_client_info": {
+          "package_name": "com.example.vidasaludable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsVn94MBe_59ShQnQxvbd7H5bPvo2YjEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
