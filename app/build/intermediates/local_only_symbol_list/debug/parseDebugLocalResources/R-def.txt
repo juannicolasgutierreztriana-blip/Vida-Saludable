@@ -54,6 +54,7 @@ id btnCardStats
 id btnCloseLoveNote
 id btnDelete
 id btnEdit
+id btnEmergencyProfile
 id btnGames
 id btnGoogleLogin
 id btnGoogleSignUp
@@ -67,6 +68,7 @@ id btnPasteCode
 id btnRegister
 id btnRestartGame
 id btnSaveContact
+id btnSaveEmergency
 id btnSetBirthday
 id btnSettings
 id btnSkipTour
@@ -79,10 +81,13 @@ id cardSeniorRole
 id cb
 id cbRemember
 id containerActivityLogs
+id etAllergies
 id etBirthDate
+id etBloodType
 id etContactName
 id etContactPhone
 id etEmail
+id etEmergencyContact
 id etFirstName
 id etLastName
 id etMedicalNotes
@@ -91,6 +96,7 @@ id etPassword
 id etSeniorCode
 id etTime
 id gridGame
+id ivQrCode
 id lvRoutines
 id main
 id progressBar
@@ -134,6 +140,7 @@ id tvStepIndicator
 id tvTime
 id tvTourMessage
 id tvUserGreeting
+layout activity_emergency_profile
 layout activity_family_dashboard
 layout activity_games
 layout activity_login

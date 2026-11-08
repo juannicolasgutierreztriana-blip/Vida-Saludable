@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.vidasaludable.app-mergeDebugResources-34:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.vidasaludable.app-mergeDebugResources-43:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gutie\\.gradle\\caches\\9.5.0\\transforms\\6a8b8423426c2a140dac4324e174e5ff\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",

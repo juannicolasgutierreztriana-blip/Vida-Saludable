@@ -18,6 +18,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VidaSaludable">
 
+        <!-- Google Maps API Key -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="YOUR_GOOGLE_MAPS_API_KEY" />
+
         <!-- Receptores -->
         <receiver
             android:name=".receiver.AlarmReceiver"
@@ -63,6 +68,12 @@
         <!-- Centro de Juegos y Mente Activa -->
         <activity
             android:name=".ui.GamesActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- Ficha Médica de Emergencia (QR) -->
+        <activity
+            android:name=".ui.EmergencyProfileActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
 

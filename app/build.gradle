@@ -45,9 +45,16 @@ dependencies {
     implementation 'com.google.firebase:firebase-firestore'
     implementation 'com.google.android.gms:play-services-auth:21.0.0'
     
-    // Google Play Services Location (FusedLocationProviderClient)
+    // Google Play Services Location & Maps
     implementation 'com.google.android.gms:play-services-location:21.2.0'
+    implementation 'com.google.android.gms:play-services-maps:18.2.0'
 
     // MPAndroidChart para Reportes y Gráficas de Salud
     implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
+
+    // WorkManager para Sincronización Offline Robusta
+    implementation 'androidx.work:work-runtime-ktx:2.9.0'
+
+    // ZXing para Código QR Médico de Emergencia
+    implementation 'com.google.zxing:core:3.5.2'
 }

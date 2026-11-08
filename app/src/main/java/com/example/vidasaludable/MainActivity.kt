@@ -31,6 +31,7 @@ import com.example.vidasaludable.database.DatabaseHelper
 import com.example.vidasaludable.firebase.FirebaseHelper
 import com.example.vidasaludable.model.Routine
 import com.example.vidasaludable.notification.NotificationHelper
+import com.example.vidasaludable.ui.EmergencyProfileActivity
 import com.example.vidasaludable.ui.GamesActivity
 import com.example.vidasaludable.ui.LoginActivity
 import com.example.vidasaludable.ui.RoutineAdapter
@@ -170,6 +171,10 @@ class MainActivity : AppCompatActivity(), RoutineAdapter.OnRoutineActionListener
                     .setNegativeButton("Cancelar", null)
                     .show()
             }
+        }
+
+        findViewById<View>(R.id.btnEmergencyProfile).setOnClickListener {
+            startActivity(Intent(this, EmergencyProfileActivity::class.java))
         }
 
         tabHoy.setOnClickListener { showTab(0) }

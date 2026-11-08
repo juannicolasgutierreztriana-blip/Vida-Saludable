@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.vidasaludable.app-mergeDebugResources-34:/values-pt/values-pt.xml",
+            "outputFile": "com.example.vidasaludable.app-mergeDebugResources-43:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gutie\\.gradle\\caches\\9.5.0\\transforms\\6f234e006d69f2e8eae180dc90b3ca09\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",

@@ -113,16 +113,18 @@ class RegisterActivity : AppCompatActivity() {
         }
 
         Toast.makeText(this, "¡Cuenta registrada con éxito!", Toast.LENGTH_SHORT).show()
-        saveSessionAndStart(fullName, true)
+        saveSessionAndStart(email, fullName, true)
     }
 
     private fun attemptGoogleSignIn() {
         Toast.makeText(this, "🌐 Registrándose con Cuenta de Google...", Toast.LENGTH_SHORT).show()
-        saveSessionAndStart("Usuario Google", true)
+        saveSessionAndStart("google@gmail.com", "Usuario Google", true)
     }
 
-    private fun saveSessionAndStart(userName: String, isNewUser: Boolean) {
+    private fun saveSessionAndStart(email: String, userName: String, isNewUser: Boolean) {
+        val emailKey = email.replace(Regex("[^a-zA-Z0-9]"), "_").lowercase()
         prefs.edit()
+            .putString("active_email_key", emailKey)
             .putString("user_name", userName)
             .putBoolean("is_logged_in", true)
             .putBoolean("is_new_user", isNewUser)
